@@ -1,0 +1,18 @@
+.quoteContainer h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: calc(3rem + 2vw);
+    font-weight: 700;
+}
+.quoteContainer p{
+    font-size: calc(1rem + 1vw);
+    font-family: 'Lora', serif;
+}
+.quoteContainer .btnn{
+    padding: 30px 90px;
+    color: white;
+    background-color: blue;
+    font-size: 14px;
+}
+.quoteContainer .btnn:hover{
+    background-color: green;
+}
